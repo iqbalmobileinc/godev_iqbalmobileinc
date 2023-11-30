@@ -1,0 +1,201 @@
+{
+  "ads": {
+    "settings": {
+      "interval_interstitial": 3,
+      "interstitial_type" : "lap",
+      "switch_ads_type": "only_banner",
+
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "make_app_under_maintenance": false
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+        "min_time": 120,
+
+        "appId_appKey_publisherId_gameId": "KODE IKLAN",
+        "banner": "KODE IKLAN",
+        "mrec": "off",
+        "inter": "KODE IKLAN",
+        "native_ad": "off",
+        "open_ad": "off",
+        "splash_ad": false
+      }
+    ]
+  },
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "APP INFO",
+      "image": "file:///android_asset/AAA/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "APP ADVICE",
+      "image": "file:///android_asset/AAA/B.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "APP GUIDE",
+      "image": "file:///android_asset/AAA/C.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "APP INFO",
+      "title": "What Is Agirc Arrco",
+      "image": "file:///android_asset/AAA/A.jpg",
+      "description": "Agirc Arrco is a complementary pension system in France that operates as two separate but complementary pension funds",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/what-is-agirc-arrco.html"
+    },
+    {
+      "id": 2,
+      "name_category": "APP INFO",
+      "title": "What Features Does Agirc Arrco",
+      "image": "file:///android_asset/AAA/B.jpg",
+      "description": "Complementary Pension System: Agirc Arrco serves as a supplementary pension system",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/what-features-does-agirc-arrco.html"
+    },
+    {
+      "id": 3,
+      "name_category": "APP INFO",
+      "title": "Goals Of Agiro Arrco",
+      "image": "file:///android_asset/AAA/C.jpg",
+      "description": "Agirc Arrco aims to supplement the basic state pension provided by the French social security system.",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/goals-of-agirc-arrco.html"
+    },
+    {
+      "id": 4,
+      "name_category": "APP INFO",
+      "title": "Benefits Of Agirc Arrco",
+      "image": "file:///android_asset/AAA/D.jpg",
+      "description": "One of the primary benefits is the provision of additional retirement income on top of the basic state pension.",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/benefits-of-agirc-arrco.html"
+    },
+    {
+      "id": 5,
+      "name_category": "APP INFO",
+      "title": "Conditions For Participating In Agirc Arrco",
+      "image": "file:///android_asset/AAA/E.jpg",
+      "description": "Agirc Arrco is primarily designed for employees in the private sector. Public-sector employees, civil servants,",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/conditions-for-participating-in-agirc.html"
+    },
+    {
+      "id": 6,
+      "name_category": "APP INFO",
+      "title": "Requirements To Become An Agirc Arrco Participant",
+      "image": "file:///android_asset/AAA/F.jpg",
+      "description": "Agirc Arrco is designed for employees in the private sector. Individuals employed by private companies, regardless of their job",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/requirements-to-become-agirc-arrco.html"
+    },
+    {
+      "id": 7,
+      "name_category": "APP INFO",
+      "title": "How The Agirc Arrco System Works",
+      "image": "file:///android_asset/AAA/G.jpg",
+      "description": "Most private-sector employees in France are required to participate in the Agirc Arrco system.",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/how-agirc-arrco-system-works.html"
+    },
+    {
+      "id": 8,
+      "name_category": "APP INFO",
+      "title": "How To Use Agirc Arrco",
+      "image": "file:///android_asset/AAA/H.jpg",
+      "description": "Be aware of your participation in the Agirc Arrco system. This may be outlined in your employment contract or",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/how-to-use-agirc-arrco.html"
+    },
+    {
+      "id": 9,
+      "name_category": "APP INFO",
+      "title": "Advantage Of  Agirc Arrco",
+      "image": "file:///android_asset/AAA/I.jpg",
+      "description": "Agirc Arrco provides additional retirement benefits on top of the basic state pension, enhancing the overall financial security of retirees.",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/advantage-of-agirc-arrco.html"
+    },
+    {
+      "id": 10,
+      "name_category": "APP INFO",
+      "title": "Disadvantage Of Agirc Arrco",
+      "image": "file:///android_asset/AAA/J.jpg",
+      "description": "Employees typically have limited control over how their Agirc Arrco contributions are invested.",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/disadvantage-of-agirc-arrco.html"
+    },
+    {
+      "id": 11,
+      "name_category": "APP INFO",
+      "title": "Steps To Register Agirc Arrco",
+      "image": "file:///android_asset/AAA/K.jpg",
+      "description": "Employers should determine the eligibility of their employees for Agirc Arrco participation. ",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/steps-to-register-agirc-arrco_29.html"
+    },
+    {
+      "id": 12,
+      "name_category": "APP INFO",
+      "title": "How To Manage Agirc Arrco Account",
+      "image": "file:///android_asset/AAA/L.jpg",
+      "description": "Employees can typically access information related to their Agirc Arrco contributions on their pay stubs. ",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/how-to-manage-agirc-arrco-account_29.html"
+    },
+    {
+      "id": 13,
+      "name_category": "APP INFO",
+      "title": "FAQ Agirc Arrco",
+      "image": "file:///android_asset/AAA/A.jpg",
+      "description": "Agirc Arrco is a complementary pension system in France designed to provide additional retirement benefits to private",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/faq-agirc-arrco.html"
+    },
+    {
+      "id": 14,
+      "name_category": "APP INFO",
+      "title": "What Is Special About Agirc Arrco",
+      "image": "file:///android_asset/AAA/B.jpg",
+      "description": "Agirc Arrco is a complementary pension system designed to supplement the basic state pension provided by the French",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/what-is-special-about-agirc-arrco.html"
+    },
+    {
+      "id": 15,
+      "name_category": "APP INFO",
+      "title": "How Do Users Make Payments In The Agirc Arrco System",
+      "image": "file:///android_asset/AAA/C.jpg",
+      "description": "Employees contribute to Agirc Arrco through automatic deductions from their salaries. The contribution rates are",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/requirements-to-become-participant-at_29.html"
+    },
+    {
+      "id": 16,
+      "name_category": "APP INFO",
+      "title": "How Can Agirc Arrco Help Me",
+      "image": "file:///android_asset/AAA/D.jpg",
+      "description": "Agirc Arrco is designed to complement the basic state pension, providing you with an additional source",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/how-do-users-make-payments-in-agirc.html"
+    },
+    {
+      "id": 17,
+      "name_category": "APP INFO",
+      "title": "How Agirc Arrco Provides Services To Its Users",
+      "image": "file:///android_asset/AAA/E.jpg",
+      "description": "Employees are often automatically enrolled in Agirc Arrco when they start working for an eligible employer.",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/how-agirc-arrco-provides-services-to.html"
+    },
+    {
+      "id": 18,
+      "name_category": "APP INFO",
+      "title": "Requirements To Become A Participant At Agirc Arrco",
+      "image": "file:///android_asset/AAA/F.jpg",
+      "description": "Agirc Arrco is primarily designed for private-sector employees in France. To become a participant,",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/requirements-to-become-participant-at.html"
+    },
+    {
+      "id": 19,
+      "name_category": "APP INFO",
+      "title": "What Is The Payment Period And Payment Schedule At Agirc Arrco",
+      "image": "file:///android_asset/AAA/G.jpg",
+      "description": "Agirc Arrco contributions are typically made on a regular basis. The payment period is often monthly or quarterly, ",
+      "link": "https://agircarrcoappdirection.blogspot.com/p/what-is-payment-period-and-payment.html"
+    }
+  ]
+}
